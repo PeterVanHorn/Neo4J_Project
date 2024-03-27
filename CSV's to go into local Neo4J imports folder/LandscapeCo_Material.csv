@@ -1,0 +1,15 @@
+﻿id,materialtype,description
+2001,consumeable,diesel
+2002,consumeable,petrol
+2003,consumeable,blade
+2004,consumeable,adhesive
+2005,consumeable,ppe
+2006,installed,soil
+2007,installed,paver
+2008,installed,wall block
+2009,installed,compost
+2010,installed,sod
+2011,installed,bark mulch
+2012,installed,large rock
+2013,installed,gravel
+2014,installed,concrete

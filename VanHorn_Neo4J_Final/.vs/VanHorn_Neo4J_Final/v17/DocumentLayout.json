@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Portfolio\\Neo4j_Project\\VanHorn_Neo4J_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9635C34-E71A-4C15-A3A8-7D190B2AE924}|VanHorn_Neo4J_Final\\VanHorn_Neo4J_Final.csproj|e:\\portfolio\\neo4j_project\\vanhorn_neo4j_final\\vanhorn_neo4j_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9635C34-E71A-4C15-A3A8-7D190B2AE924}|VanHorn_Neo4J_Final\\VanHorn_Neo4J_Final.csproj|solutionrelative:vanhorn_neo4j_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Portfolio\\Neo4j_Project\\VanHorn_Neo4J_Final\\VanHorn_Neo4J_Final\\Program.cs",
+              "RelativeDocumentMoniker": "VanHorn_Neo4J_Final\\Program.cs",
+              "ToolTip": "E:\\Portfolio\\Neo4j_Project\\VanHorn_Neo4J_Final\\VanHorn_Neo4J_Final\\Program.cs",
+              "RelativeToolTip": "VanHorn_Neo4J_Final\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T15:44:54.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
